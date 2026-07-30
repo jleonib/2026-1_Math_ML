@@ -11,7 +11,7 @@ En la elaboración de estos ejercicios se utilizó IA como
 herramienta de apoyo, principalmente para:
 
 - redactar y estructurar las soluciones (cuadernos de Jupyter y documentos LaTeX);
-- implementar las simulaciones y las gráficas en Python;
+- implementar las simulaciones y las gráficas en Python.
 
 El contenido fue revisado y ajustado antes de la entrega, y la responsabilidad
 sobre los resultados y su interpretación es del autor.
